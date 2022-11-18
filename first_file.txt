@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 111   master modified
 111
+=======
+111
+111   hot-fix modified
+>>>>>>> hot-fix
 111
 222
 222
